@@ -2,96 +2,166 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Soojung Yi
+    - name: Position
+      value: Postdoctoral Fellow, Research Institute for Basic Sciences, Seoul National University
+    - name: Location
+      value: Seoul 08826, South Korea
+    - name: Email
+      value: jomrupjr@snu.ac.kr
     - name: Languages
-      value: English, German
+      value: Korean, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Chemistry
+      institution: Seoul National University, Seoul, Korea
+      year: 2017 – 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Dissertation – Single Protein Imaging Techniques for Direct Observation of Protein–Protein Interactions and Dynamics in a Living Bacterial Cell (Best Doctoral Dissertation Award).
+        - Advisor – Prof. Nam Ki Lee
+    - title: B.S. in Chemistry, Biological Sciences (Double Major)
+      institution: Seoul National University, Seoul, Korea
+      year: 2013 – 2017
       description:
-        - Description 1.
-        - Description 2.
+        - Best Thesis Award, School of Biology Research Symposium.
+        - Thesis projects on DegP–Asr regulation and PHF7 mechanism.
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Fellow
+      institution: Research Institute for Basic Sciences, Seoul National University
+      year: Sep 2025 – Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developing quantitative imaging and microbiology approaches to study protein–protein interactions and bacterial physiology.
+    - title: Biophysical Chemistry PhD Candidate
+      institution: Department of Chemistry, Seoul National University
+      year: Sep 2017 – Aug 2025
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Developed KD-FRET for in-cell quantification of protein–protein interaction strength (Advanced Science, Editor’s Choice).
+        - Led gene expression kinetics studies in Vibrio natriegens using microfluidics-based long-term imaging.
+        - Performed NMR-based structural analysis of VAMP2 and α-synuclein interactions.
+    - title: IROP Research Intern
+      institution: Department of Chemistry, Imperial College London
+      year: Jun 2016 – Aug 2016
       description:
+        - Cloned constructs for Plasmodium falciparum PfPLP1A/B, regulators of CCT chaperonin.
+    - title: Undergraduate Researcher
+      institution: Seoul National University (multiple laboratories)
+      year: Dec 2014 – Jul 2017
+      description:
+        - Structural biology, apoptosis and molecular disease, and systems neuroscience projects using X-ray crystallography, cell-based screening, and advanced imaging.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Publications
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Advances in methodologies for quantifying protein–protein interactions in living cells
+      institution: Bulletin of the Korean Chemical Society 46(6), 574–586 (2025)
+      year: 2025
+      description:
+        - S Yi, Y Ahn, NK Lee* – Invited contribution on quantitative PPI measurements in living cells.
+    - title: Direct Quantification of Protein–Protein Interactions in Living Bacterial Cells
+      institution: Advanced Science 2414777 (Editor’s Choice)
+      year: 2025
+      description:
+        - S Yi†, E Kim†, S Yang, et al., YJ Yoon*, NK Lee* – Developed KD-FRET for in-cell PPI strength measurements.
+    - title: Structural investigation of the docking domain assembly from trans-AT polyketide synthases
+      institution: Structure 32(9), 1477–1487
+      year: 2024
+      description:
+        - SY Son†, DW Bae†, E Kim†, et al., YJ Yoon*, SS Cha* – Contributed to structural and biochemical analysis.
+    - title: Co-transcriptional translation amplifies mRNA noise in Escherichia coli
+      institution: bioRxiv (2023)
+      year: 2023
+      description:
+        - S Yang†, S Park†, JB Son, et al., NK Lee* – Studied gene expression noise in E. coli.
+    - title: Deciphering the Dynamics of Genetic Information Flow in the Rapidly Growing Bacterium Vibrio natriegens
+      institution: In preparation
+      year: in preparation
+      description:
+        - Ongoing work on transcription–translation dynamics in a fast-growing bacterium.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Molecular & Cellular Biology
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Plasmid cloning, chromosomal recombination, CRISPR/Cas9 genome editing in E. coli and Vibrio natriegens.
+        - RNA extraction, qRT-PCR, single-molecule FISH.
+    - title: Protein Chemistry & Biochemical Assays
       items:
-        - Description 1.
-        - Description 2.
+        - Protein expression and purification (including isotope-labeled proteins).
+        - Site-specific fluorescent labeling and enzymatic/biochemical assays.
+    - title: Microscopy & Imaging
+      items:
+        - Wide-field, confocal, DIC, and live-cell fluorescence imaging.
+        - Microfluidics for single-cell imaging and long-term tracking.
+    - title: Analytical & Computational
+      items:
+        - CD, ITC, HPLC, MALDI-TOF MS, UV–Vis and fluorescence spectroscopy.
+        - MATLAB, LabVIEW, Origin, ImageJ, POKY, and common bioinformatics tools.
 
+- title: Presentations
+  type: time_table
+  contents:
+    - title: Selected oral presentations
+      year: 2023 – 2025
+      description:
+        - Korean Physical Society Fall Meeting (2023) – Direct measurement of PPI strength by accurate FRET imaging.
+        - Center for Quantum Dynamics Summer Workshop (2025) – KD-FRET for quantifying PPI strength in living bacteria.
+    - title: Selected poster presentations
+      year: 2021 – 2025
+      description:
+        - Biophysical Society Annual Meeting (2024).
+        - International Conference on Biological Physics (2023).
+        - Multiple KPS and KCS meetings (2021–2025).
+
+- title: Awards and Honors
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - Outstanding Female Graduate Student Award, Korean Physical Society.
+        - Best Doctoral Dissertation Award, College of Natural Sciences, Seoul National University.
+    - year: 2022
+      items:
+        - Excellent Poster Prize, Korean Chemical Society.
+    - year: 2021
+      items:
+        - Outstanding Presentation Award, Korean Physical Society.
+    - year: 2015 – 2018
+      items:
+        - Merit-Based Scholarship, Seoul National University.
+        - CHU Family Foundation Scholarship.
+        - Best Thesis and Best Poster Awards at SNU symposia.
+
+- title: Teaching & Outreach
+  type: time_table
+  contents:
+    - title: Teaching and mentoring
+      year: 2017 – 2025
+      description:
+        - Mentored 8 students in molecular biology and imaging.
+        - Teaching Assistant for multiple chemistry courses at SNU.
+    - title: Science camp and outreach
+      year: 2018 – 2023
+      description:
+        - Head TA and TA for SNU Science Camp; designed and delivered lectures and lab sessions.
+        - Produced subtitles and lab videos for SNUON General Chemistry courses.
+
+- title: Academic Service & Leadership
+  type: list
+  contents:
+    - Division Lead, Biophysics Division, K-BioX Global Network – organized seminars and networking events.
+    - Event organizer, Department of Chemistry Sports Day, SNU.
+
+- title: References
+  type: list
+  contents:
+    - Available upon request.
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Playing the piano
