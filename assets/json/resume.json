@@ -327,29 +327,5 @@
       "name": "Event Organizer, Department of Chemistry Sports Day, SNU",
       "summary": "Organized department-wide sports day event (2018)."
     }
-  ],
-
-  "references": [
-    {
-      "name": "Prof. Nam Ki Lee",
-      "relationship": "Ph.D. advisor",
-      "email": "namkilee@snu.ac.kr",
-      "phone": "+82-2-880-2234",
-      "institution": "Department of Chemistry, Seoul National University"
-    },
-    {
-      "name": "Prof. Sun-Shin Cha",
-      "relationship": "Collaborator",
-      "email": "chajung@ewha.ac.kr",
-      "phone": "+82-2-3277-3858",
-      "institution": "Department of Chemistry & Nanoscience, Ewha Womans University"
-    },
-    {
-      "name": "Prof. Seokhee Kim",
-      "relationship": "Undergraduate advisor",
-      "email": "seokheekim@snu.ac.kr",
-      "phone": "+82-2-880-4123",
-      "institution": "Department of Chemistry, Seoul National University"
-    }
   ]
 }
