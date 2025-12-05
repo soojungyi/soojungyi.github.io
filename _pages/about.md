@@ -63,4 +63,4 @@ I am currently continuing this research as a postdoctoral fellow at the Research
 
 Biophysical chemistry · Live-cell imaging · KD-FRET ·  
 Protein–protein interaction · Gene expression ·  Microfluidics
-Host-microbe interaction · *E. coli* · *Vibrio natriegens*
+Host–microbe interaction · *E. coli* · *Vibrio natriegens*
